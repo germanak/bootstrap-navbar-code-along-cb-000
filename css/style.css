@@ -1,5 +1,5 @@
 
-img, video, audio, iframe, table, form {
+img, video, audio, iframe, table, form, nav {
   width: 100%;
   max-width: 100%;
 }
